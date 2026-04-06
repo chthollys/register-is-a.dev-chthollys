@@ -4,8 +4,9 @@
         "email": "jason130105@gmail.com"
     },
     "records": {
-        "A": [
-            "168.110.212.241"
+        "NS": [
+            "laila.ns.cloudflare.com",
+            "yoxall.ns.cloudflare.com"
         ]
     }
 }
